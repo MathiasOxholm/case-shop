@@ -1,0 +1,883 @@
+[
+  {
+    "id": "furn-001",
+    "title": "Modern Oak Dining Table",
+    "category": "Dining Room",
+    "description": "A stunning solid oak dining table that seats up to 6 people. Features a natural wood finish with subtle grain patterns and sturdy construction. Perfect for family gatherings and dinner parties.",
+    "price": 899.99,
+    "originalPrice": 1099.99,
+    "discount": 18,
+    "inStock": true,
+    "stockQuantity": 12,
+    "rating": 4.8,
+    "reviewCount": 156,
+    "dimensions": {
+      "length": "180cm",
+      "width": "90cm",
+      "height": "75cm"
+    },
+    "materials": [
+      "Solid Oak",
+      "Steel Hardware"
+    ],
+    "colors": [
+      "Natural Oak",
+      "Dark Walnut",
+      "White Wash"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Modern+Oak+Dining+Table",
+      "https://placehold.co/600.jpg?text=Modern+Oak+Dining+Table",
+      "https://placehold.co/600.jpg?text=Modern+Oak+Dining+Table"
+    ],
+    "features": [
+      "Solid oak construction",
+      "Seats up to 6 people",
+      "Easy assembly required",
+      "5-year warranty"
+    ]
+  },
+  {
+    "id": "furn-002",
+    "title": "Luxury Leather Sectional Sofa",
+    "category": "Living Room",
+    "description": "Premium Italian leather sectional sofa with deep seating and plush cushions. Features a modular design that can be rearranged to fit any living space. Includes matching throw pillows.",
+    "price": 2499.99,
+    "originalPrice": 2999.99,
+    "discount": 17,
+    "inStock": true,
+    "stockQuantity": 8,
+    "rating": 4.9,
+    "reviewCount": 89,
+    "dimensions": {
+      "length": "280cm",
+      "width": "180cm",
+      "height": "85cm"
+    },
+    "materials": [
+      "Italian Leather",
+      "Hardwood Frame",
+      "High-Density Foam"
+    ],
+    "colors": [
+      "Cognac Brown",
+      "Charcoal Gray",
+      "Cream White"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Luxury+Leather+Sectional+Sofa",
+      "https://placehold.co/600.jpg?text=Luxury+Leather+Sectional+Sofa",
+      "https://placehold.co/600.jpg?text=Luxury+Leather+Sectional+Sofa"
+    ],
+    "features": [
+      "100% Italian leather upholstery",
+      "Modular design",
+      "Deep seating comfort",
+      "Includes matching pillows",
+      "10-year frame warranty"
+    ]
+  },
+  {
+    "id": "furn-003",
+    "title": "Minimalist Bookshelf Unit",
+    "category": "Storage",
+    "description": "Clean and modern 5-tier bookshelf with adjustable shelves. Made from sustainable bamboo with a natural finish. Perfect for organizing books, decorative items, and storage boxes.",
+    "price": 299.99,
+    "originalPrice": 349.99,
+    "discount": 14,
+    "inStock": true,
+    "stockQuantity": 25,
+    "rating": 4.6,
+    "reviewCount": 203,
+    "dimensions": {
+      "length": "80cm",
+      "width": "30cm",
+      "height": "180cm"
+    },
+    "materials": [
+      "Sustainable Bamboo",
+      "Steel Brackets"
+    ],
+    "colors": [
+      "Natural Bamboo",
+      "Charcoal",
+      "White"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Minimalist+Bookshelf+Unit",
+      "https://placehold.co/600.jpg?text=Minimalist+Bookshelf+Unit",
+      "https://placehold.co/600.jpg?text=Minimalist+Bookshelf+Unit"
+    ],
+    "features": [
+      "Sustainable bamboo construction",
+      "5 adjustable shelves",
+      "Easy assembly",
+      "Wall-mountable",
+      "Weight capacity: 25kg per shelf"
+    ]
+  },
+  {
+    "id": "furn-004",
+    "title": "Executive Office Chair",
+    "category": "Office",
+    "description": "Ergonomic executive office chair with lumbar support and adjustable height. Features premium mesh backrest for breathability and memory foam seat cushion for all-day comfort.",
+    "price": 459.99,
+    "originalPrice": 599.99,
+    "discount": 23,
+    "inStock": true,
+    "stockQuantity": 15,
+    "rating": 4.7,
+    "reviewCount": 127,
+    "dimensions": {
+      "length": "65cm",
+      "width": "65cm",
+      "height": "120-135cm"
+    },
+    "materials": [
+      "Mesh Fabric",
+      "Aluminum Base",
+      "Memory Foam"
+    ],
+    "colors": [
+      "Black",
+      "Gray",
+      "Navy Blue"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Executive+Office+Chair",
+      "https://placehold.co/600.jpg?text=Executive+Office+Chair",
+      "https://placehold.co/600.jpg?text=Executive+Office+Chair"
+    ],
+    "features": [
+      "Ergonomic lumbar support",
+      "Adjustable height and tilt",
+      "360-degree swivel",
+      "Memory foam seat",
+      "5-year warranty"
+    ]
+  },
+  {
+    "id": "furn-005",
+    "title": "Rustic Coffee Table",
+    "category": "Living Room",
+    "description": "Handcrafted rustic coffee table made from reclaimed barn wood. Features a distressed finish and metal hairpin legs. Includes a lower shelf for additional storage and display.",
+    "price": 649.99,
+    "originalPrice": 799.99,
+    "discount": 19,
+    "inStock": false,
+    "stockQuantity": 0,
+    "rating": 4.5,
+    "reviewCount": 94,
+    "dimensions": {
+      "length": "120cm",
+      "width": "60cm",
+      "height": "45cm"
+    },
+    "materials": [
+      "Reclaimed Barn Wood",
+      "Steel Hairpin Legs"
+    ],
+    "colors": [
+      "Weathered Gray",
+      "Natural Wood",
+      "Dark Stain"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Rustic+Coffee+Table",
+      "https://placehold.co/600.jpg?text=Rustic+Coffee+Table",
+      "https://placehold.co/600.jpg?text=Rustic+Coffee+Table"
+    ],
+    "features": [
+      "Handcrafted from reclaimed wood",
+      "Distressed finish",
+      "Metal hairpin legs",
+      "Lower storage shelf",
+      "Unique character marks"
+    ]
+  },
+  {
+    "id": "furn-006",
+    "title": "Platform Bed Frame",
+    "category": "Bedroom",
+    "description": "Sleek platform bed frame with built-in nightstands and LED lighting. Features a low-profile design with ample under-bed storage space. Made from engineered wood with a matte black finish.",
+    "price": 1199.99,
+    "originalPrice": 1399.99,
+    "discount": 14,
+    "inStock": true,
+    "stockQuantity": 6,
+    "rating": 4.8,
+    "reviewCount": 78,
+    "dimensions": {
+      "length": "200cm",
+      "width": "160cm",
+      "height": "25cm"
+    },
+    "materials": [
+      "Engineered Wood",
+      "LED Strips",
+      "Steel Hardware"
+    ],
+    "colors": [
+      "Matte Black",
+      "White",
+      "Walnut"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Platform+Bed+Frame",
+      "https://placehold.co/600.jpg?text=Platform+Bed+Frame",
+      "https://placehold.co/600.jpg?text=Platform+Bed+Frame"
+    ],
+    "features": [
+      "Built-in LED lighting",
+      "Integrated nightstands",
+      "Under-bed storage",
+      "Low-profile design",
+      "No box spring required"
+    ]
+  },
+  {
+    "id": "furn-007",
+    "title": "Vintage Bar Cabinet",
+    "category": "Dining Room",
+    "description": "Elegant vintage-style bar cabinet with glass doors and interior lighting. Features wine storage, glass holders, and a fold-out serving tray. Perfect for entertaining guests and displaying your favorite spirits.",
+    "price": 1299.99,
+    "originalPrice": 1599.99,
+    "discount": 19,
+    "inStock": true,
+    "stockQuantity": 4,
+    "rating": 4.7,
+    "reviewCount": 67,
+    "dimensions": {
+      "length": "90cm",
+      "width": "45cm",
+      "height": "120cm"
+    },
+    "materials": [
+      "Solid Mahogany",
+      "Tempered Glass",
+      "Brass Hardware"
+    ],
+    "colors": [
+      "Rich Mahogany",
+      "Antique White",
+      "Espresso"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Vintage+Bar+Cabinet",
+      "https://placehold.co/600.jpg?text=Vintage+Bar+Cabinet",
+      "https://placehold.co/600.jpg?text=Vintage+Bar+Cabinet"
+    ],
+    "features": [
+      "Interior LED lighting",
+      "Wine bottle storage",
+      "Glass holder rack",
+      "Fold-out serving tray",
+      "Lockable doors"
+    ]
+  },
+  {
+    "id": "furn-008",
+    "title": "Accent Armchair",
+    "category": "Living Room",
+    "description": "Stylish accent armchair with tufted backrest and velvet upholstery. Features a modern design with brass legs and comfortable seating. Perfect for reading corners or as a statement piece in any room.",
+    "price": 699.99,
+    "originalPrice": 899.99,
+    "discount": 22,
+    "inStock": true,
+    "stockQuantity": 18,
+    "rating": 4.6,
+    "reviewCount": 142,
+    "dimensions": {
+      "length": "75cm",
+      "width": "85cm",
+      "height": "95cm"
+    },
+    "materials": [
+      "Premium Velvet",
+      "Hardwood Frame",
+      "Brass Legs"
+    ],
+    "colors": [
+      "Emerald Green",
+      "Navy Blue",
+      "Burgundy Red",
+      "Charcoal Gray"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Accent+Armchair",
+      "https://placehold.co/600.jpg?text=Accent+Armchair",
+      "https://placehold.co/600.jpg?text=Accent+Armchair"
+    ],
+    "features": [
+      "Tufted backrest design",
+      "Premium velvet upholstery",
+      "Brass tapered legs",
+      "High-density foam cushioning",
+      "Easy assembly"
+    ]
+  },
+  {
+    "id": "furn-009",
+    "title": "Standing Desk Converter",
+    "category": "Office",
+    "description": "Adjustable standing desk converter that transforms any surface into an ergonomic workspace. Features dual monitor support, keyboard tray, and smooth height adjustment mechanism.",
+    "price": 399.99,
+    "originalPrice": 499.99,
+    "discount": 20,
+    "inStock": true,
+    "stockQuantity": 22,
+    "rating": 4.8,
+    "reviewCount": 189,
+    "dimensions": {
+      "length": "100cm",
+      "width": "60cm",
+      "height": "15-45cm"
+    },
+    "materials": [
+      "Steel Frame",
+      "MDF Top",
+      "Aluminum Legs"
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Walnut"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Standing+Desk+Converter",
+      "https://placehold.co/600.jpg?text=Standing+Desk+Converter",
+      "https://placehold.co/600.jpg?text=Standing+Desk+Converter"
+    ],
+    "features": [
+      "Dual monitor support",
+      "Adjustable keyboard tray",
+      "Smooth height adjustment",
+      "Cable management system",
+      "Weight capacity: 25kg"
+    ]
+  },
+  {
+    "id": "furn-010",
+    "title": "Storage Ottoman",
+    "category": "Living Room",
+    "description": "Versatile storage ottoman with removable top and spacious interior. Features premium leather upholstery and sturdy construction. Perfect for extra seating, footrest, or hidden storage.",
+    "price": 249.99,
+    "originalPrice": 329.99,
+    "discount": 24,
+    "inStock": true,
+    "stockQuantity": 31,
+    "rating": 4.5,
+    "reviewCount": 256,
+    "dimensions": {
+      "length": "60cm",
+      "width": "60cm",
+      "height": "40cm"
+    },
+    "materials": [
+      "Genuine Leather",
+      "Plywood Frame",
+      "High-Density Foam"
+    ],
+    "colors": [
+      "Cognac Brown",
+      "Black",
+      "Gray",
+      "Cream"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Storage+Ottoman",
+      "https://placehold.co/600.jpg?text=Storage+Ottoman",
+      "https://placehold.co/600.jpg?text=Storage+Ottoman"
+    ],
+    "features": [
+      "Removable top lid",
+      "Spacious storage compartment",
+      "Genuine leather upholstery",
+      "Sturdy construction",
+      "Multi-functional design"
+    ]
+  },
+  {
+    "id": "furn-011",
+    "title": "Dresser with Mirror",
+    "category": "Bedroom",
+    "description": "Elegant 6-drawer dresser with attached mirror and soft-close mechanisms. Features spacious drawers with full-extension slides and a beautiful wood veneer finish.",
+    "price": 899.99,
+    "originalPrice": 1199.99,
+    "discount": 25,
+    "inStock": true,
+    "stockQuantity": 9,
+    "rating": 4.7,
+    "reviewCount": 98,
+    "dimensions": {
+      "length": "120cm",
+      "width": "50cm",
+      "height": "180cm"
+    },
+    "materials": [
+      "Wood Veneer",
+      "MDF Core",
+      "Soft-Close Hardware"
+    ],
+    "colors": [
+      "White",
+      "Oak",
+      "Walnut",
+      "Gray"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Dresser+with+Mirror",
+      "https://placehold.co/600.jpg?text=Dresser+with+Mirror",
+      "https://placehold.co/600.jpg?text=Dresser+with+Mirror"
+    ],
+    "features": [
+      "6 spacious drawers",
+      "Attached mirror",
+      "Soft-close mechanisms",
+      "Full-extension drawer slides",
+      "Easy assembly"
+    ]
+  },
+  {
+    "id": "furn-012",
+    "title": "Outdoor Patio Set",
+    "category": "Outdoor",
+    "description": "Complete 4-piece outdoor patio set with weather-resistant materials. Includes a dining table and 4 chairs with comfortable cushions. Perfect for outdoor dining and entertaining.",
+    "price": 799.99,
+    "originalPrice": 999.99,
+    "discount": 20,
+    "inStock": true,
+    "stockQuantity": 12,
+    "rating": 4.6,
+    "reviewCount": 134,
+    "dimensions": {
+      "table": "120cm x 80cm x 75cm",
+      "chairs": "45cm x 50cm x 90cm"
+    },
+    "materials": [
+      "Powder-Coated Aluminum",
+      "Weather-Resistant Fabric",
+      "Tempered Glass"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Brown",
+      "Gray"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Outdoor+Patio+Set",
+      "https://placehold.co/600.jpg?text=Outdoor+PatioSet",
+      "https://placehold.co/600.jpg?text=Outdoor+PatioSet"
+    ],
+    "features": [
+      "Weather-resistant construction",
+      "Comfortable seat cushions",
+      "Tempered glass table top",
+      "Powder-coated aluminum frame",
+      "Easy maintenance"
+    ]
+  },
+  {
+    "id": "furn-013",
+    "title": "Mid-Century Modern Sideboard",
+    "category": "Dining Room",
+    "description": "Timeless mid-century modern sideboard with clean lines and walnut veneer finish. Features sliding doors, adjustable shelves, and elegant brass hardware. Perfect for dining room storage and display.",
+    "price": 1299.99,
+    "originalPrice": 1599.99,
+    "discount": 19,
+    "inStock": true,
+    "stockQuantity": 7,
+    "rating": 4.8,
+    "reviewCount": 89,
+    "dimensions": {
+      "length": "150cm",
+      "width": "45cm",
+      "height": "80cm"
+    },
+    "materials": [
+      "Walnut Veneer",
+      "MDF Core",
+      "Brass Hardware"
+    ],
+    "colors": [
+      "Walnut",
+      "White",
+      "Black"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Mid-Century+Modern+Sideboard",
+      "https://placehold.co/600.jpg?text=Mid-Century+Modern+Sideboard",
+      "https://placehold.co/600.jpg?text=Mid-Century+Modern+Sideboard"
+    ],
+    "features": [
+      "Sliding door design",
+      "Adjustable interior shelves",
+      "Brass hardware accents",
+      "Mid-century modern style",
+      "Easy assembly"
+    ]
+  },
+  {
+    "id": "furn-014",
+    "title": "L-Shaped Gaming Desk",
+    "category": "Office",
+    "description": "Spacious L-shaped gaming desk with built-in cable management and RGB LED lighting. Features a large surface area for multiple monitors and gaming peripherals. Includes a headphone hook and cup holder.",
+    "price": 599.99,
+    "originalPrice": 799.99,
+    "discount": 25,
+    "inStock": true,
+    "stockQuantity": 14,
+    "rating": 4.7,
+    "reviewCount": 156,
+    "dimensions": {
+      "length": "160cm x 120cm",
+      "width": "75cm",
+      "height": "75cm"
+    },
+    "materials": [
+      "Engineered Wood",
+      "Steel Frame",
+      "RGB LED Strips"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Walnut"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=L-Shaped+Gaming+Desk",
+      "https://placehold.co/600.jpg?text=L-Shaped+Gaming+Desk",
+      "https://placehold.co/600.jpg?text=L-Shaped+Gaming+Desk"
+    ],
+    "features": [
+      "L-shaped design",
+      "Built-in cable management",
+      "RGB LED lighting",
+      "Headphone hook",
+      "Cup holder included"
+    ]
+  },
+  {
+    "id": "furn-015",
+    "title": "Velvet Loveseat",
+    "category": "Living Room",
+    "description": "Luxurious velvet loveseat with deep button tufting and elegant brass legs. Features premium velvet upholstery in rich jewel tones and comfortable seating for two. Perfect for intimate seating arrangements.",
+    "price": 899.99,
+    "originalPrice": 1199.99,
+    "discount": 25,
+    "inStock": true,
+    "stockQuantity": 11,
+    "rating": 4.9,
+    "reviewCount": 73,
+    "dimensions": {
+      "length": "140cm",
+      "width": "85cm",
+      "height": "85cm"
+    },
+    "materials": [
+      "Premium Velvet",
+      "Hardwood Frame",
+      "Brass Legs"
+    ],
+    "colors": [
+      "Sapphire Blue",
+      "Emerald Green",
+      "Ruby Red",
+      "Amethyst Purple"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Velvet+Loveseat",
+      "https://placehold.co/600.jpg?text=Velvet+Loveseat",
+      "https://placehold.co/600.jpg?text=Velvet+Loveseat"
+    ],
+    "features": [
+      "Deep button tufting",
+      "Premium velvet upholstery",
+      "Elegant brass legs",
+      "Seats two comfortably",
+      "High-density foam cushioning"
+    ]
+  },
+  {
+    "id": "furn-016",
+    "title": "Industrial Bookshelf",
+    "category": "Storage",
+    "description": "Rustic industrial bookshelf with exposed metal framework and reclaimed wood shelves. Features a distressed finish and adjustable shelf heights. Perfect for displaying books, plants, and decorative items.",
+    "price": 449.99,
+    "originalPrice": 599.99,
+    "discount": 25,
+    "inStock": true,
+    "stockQuantity": 16,
+    "rating": 4.6,
+    "reviewCount": 112,
+    "dimensions": {
+      "length": "90cm",
+      "width": "35cm",
+      "height": "180cm"
+    },
+    "materials": [
+      "Reclaimed Wood",
+      "Black Steel Frame",
+      "Industrial Hardware"
+    ],
+    "colors": [
+      "Weathered Wood",
+      "Black Steel",
+      "Rust Patina"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Industrial+Bookshelf",
+      "https://placehold.co/600.jpg?text=Industrial+Bookshelf",
+      "https://placehold.co/600.jpg?text=Industrial+Bookshelf"
+    ],
+    "features": [
+      "Exposed metal framework",
+      "Reclaimed wood shelves",
+      "Adjustable shelf heights",
+      "Distressed finish",
+      "Industrial design aesthetic"
+    ]
+  },
+  {
+    "id": "furn-017",
+    "title": "Marble Top Console Table",
+    "category": "Living Room",
+    "description": "Elegant console table with genuine marble top and gold metal legs. Features a minimalist design perfect for entryways, hallways, or behind sofas. Includes a lower shelf for additional storage.",
+    "price": 799.99,
+    "originalPrice": 999.99,
+    "discount": 20,
+    "inStock": true,
+    "stockQuantity": 8,
+    "rating": 4.8,
+    "reviewCount": 95,
+    "dimensions": {
+      "length": "120cm",
+      "width": "35cm",
+      "height": "80cm"
+    },
+    "materials": [
+      "Genuine Marble",
+      "Gold Metal Legs",
+      "Steel Hardware"
+    ],
+    "colors": [
+      "Carrara Marble",
+      "Calacatta Marble",
+      "Black Marble"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Marble+Top+Console+Table",
+      "https://placehold.co/600.jpg?text=Marble+Top+Console+Table",
+      "https://placehold.co/600.jpg?text=Marble+Top+Console+Table"
+    ],
+    "features": [
+      "Genuine marble top",
+      "Gold metal legs",
+      "Lower storage shelf",
+      "Minimalist design",
+      "Easy assembly"
+    ]
+  },
+  {
+    "id": "furn-018",
+    "title": "Reclining Sectional Sofa",
+    "category": "Living Room",
+    "description": "Comfortable reclining sectional sofa with power reclining mechanism and USB charging ports. Features premium fabric upholstery and includes a center console with cup holders and storage.",
+    "price": 1899.99,
+    "originalPrice": 2299.99,
+    "discount": 17,
+    "inStock": true,
+    "stockQuantity": 5,
+    "rating": 4.7,
+    "reviewCount": 67,
+    "dimensions": {
+      "length": "300cm",
+      "width": "200cm",
+      "height": "90cm"
+    },
+    "materials": [
+      "Premium Fabric",
+      "Hardwood Frame",
+      "Power Reclining Mechanism"
+    ],
+    "colors": [
+      "Charcoal Gray",
+      "Navy Blue",
+      "Beige",
+      "Dark Brown"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Reclining+Sectional+Sofa",
+      "https://placehold.co/600.jpg?text=Reclining+Sectional+Sofa",
+      "https://placehold.co/600.jpg?text=Reclining+Sectional+Sofa"
+    ],
+    "features": [
+      "Power reclining mechanism",
+      "USB charging ports",
+      "Center console with cup holders",
+      "Premium fabric upholstery",
+      "Modular design"
+    ]
+  },
+  {
+    "id": "furn-019",
+    "title": "Floating Wall Shelves Set",
+    "category": "Storage",
+    "description": "Set of 3 floating wall shelves with hidden mounting system. Made from solid oak with a natural finish. Perfect for displaying books, photos, plants, and decorative items while saving floor space.",
+    "price": 199.99,
+    "originalPrice": 249.99,
+    "discount": 20,
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 4.5,
+    "reviewCount": 203,
+    "dimensions": {
+      "length": "60cm, 80cm, 100cm",
+      "width": "20cm",
+      "height": "5cm"
+    },
+    "materials": [
+      "Solid Oak",
+      "Steel Mounting Hardware"
+    ],
+    "colors": [
+      "Natural Oak",
+      "White",
+      "Walnut"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Floating+Wall+Shelves+Set",
+      "https://placehold.co/600.jpg?text=Floating+Wall+Shelves+Set",
+      "https://placehold.co/600.jpg?text=Floating+Wall+Shelves+Set"
+    ],
+    "features": [
+      "Hidden mounting system",
+      "Set of 3 different sizes",
+      "Solid oak construction",
+      "Easy installation",
+      "Weight capacity: 15kg per shelf"
+    ]
+  },
+  {
+    "id": "furn-020",
+    "title": "Adjustable Height Dining Table",
+    "category": "Dining Room",
+    "description": "Versatile dining table with electric height adjustment mechanism. Transforms from coffee table height to dining table height with the push of a button. Perfect for small spaces and multi-purpose rooms.",
+    "price": 1499.99,
+    "originalPrice": 1899.99,
+    "discount": 21,
+    "inStock": true,
+    "stockQuantity": 6,
+    "rating": 4.8,
+    "reviewCount": 45,
+    "dimensions": {
+      "length": "140cm",
+      "width": "80cm",
+      "height": "45-75cm"
+    },
+    "materials": [
+      "Engineered Wood",
+      "Steel Frame",
+      "Electric Motor"
+    ],
+    "colors": [
+      "White",
+      "Walnut",
+      "Black"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Adjustable+Height+Dining+Table",
+      "https://placehold.co/600.jpg?text=Adjustable+Height+Dining+Table",
+      "https://placehold.co/600.jpg?text=Adjustable+Height+Dining+Table"
+    ],
+    "features": [
+      "Electric height adjustment",
+      "Remote control operation",
+      "Memory height settings",
+      "Quiet motor operation",
+      "Seats up to 6 people"
+    ]
+  },
+  {
+    "id": "furn-021",
+    "title": "Corner Reading Chair",
+    "category": "Living Room",
+    "description": "Cozy corner reading chair with built-in side table and reading light. Features a swivel base, adjustable backrest, and integrated USB charging port. Perfect for creating a dedicated reading nook.",
+    "price": 699.99,
+    "originalPrice": 899.99,
+    "discount": 22,
+    "inStock": true,
+    "stockQuantity": 13,
+    "rating": 4.6,
+    "reviewCount": 89,
+    "dimensions": {
+      "length": "90cm",
+      "width": "90cm",
+      "height": "110cm"
+    },
+    "materials": [
+      "Premium Fabric",
+      "Hardwood Frame",
+      "LED Reading Light"
+    ],
+    "colors": [
+      "Navy Blue",
+      "Forest Green",
+      "Charcoal Gray",
+      "Burgundy"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Corner+Reading+Chair",
+      "https://placehold.co/600.jpg?text=Corner+Reading+Chair",
+      "https://placehold.co/600.jpg?text=Corner+Reading+Chair"
+    ],
+    "features": [
+      "Built-in side table",
+      "Adjustable reading light",
+      "360-degree swivel base",
+      "USB charging port",
+      "Adjustable backrest"
+    ]
+  },
+  {
+    "id": "furn-022",
+    "title": "Modular TV Stand",
+    "category": "Living Room",
+    "description": "Modern modular TV stand with adjustable shelves and cable management system. Features a sleek design with hidden storage compartments and LED backlighting. Accommodates TVs up to 75 inches.",
+    "price": 799.99,
+    "originalPrice": 999.99,
+    "discount": 20,
+    "inStock": true,
+    "stockQuantity": 10,
+    "rating": 4.7,
+    "reviewCount": 124,
+    "dimensions": {
+      "length": "180cm",
+      "width": "45cm",
+      "height": "50cm"
+    },
+    "materials": [
+      "Engineered Wood",
+      "Steel Frame",
+      "LED Strips"
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Walnut"
+    ],
+    "images": [
+      "https://placehold.co/600.jpg?text=Modular+TV+Stand",
+      "https://placehold.co/600.jpg?text=Modular+TV+Stand",
+      "https://placehold.co/600.jpg?text=Modular+TV+Stand"
+    ],
+    "features": [
+      "Modular design",
+      "Adjustable shelves",
+      "Cable management system",
+      "LED backlighting",
+      "Hidden storage compartments"
+    ]
+  }
+]
